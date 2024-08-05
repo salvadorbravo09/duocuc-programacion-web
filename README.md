@@ -4,7 +4,7 @@
 
 Techno Shop es una landing page construida con HTML y CSS para la asignatura "Programación Web" impartida en Duoc UC Sede Concepción, 3er Semestre. Este proyecto permite a los usuarios navegar por diferentes secciones de una tienda en línea, incluyendo productos, carrito de compras y más.
 
-Este proyecto solo incluye los templates de la pagina web. Para ir al proyecto completo: [Proyecto completo]([https://github.com/alejandrobravo09/duocuc-programacion-web-django](https://github.com/salvadorbravo09/duocuc-programacion-web-django))
+Este proyecto solo incluye los templates de la página web. Para ir al proyecto completo: [Proyecto completo](https://github.com/salvadorbravo09/duocuc-programacion-web-django)
 
 ## Estructura del Proyecto
 
